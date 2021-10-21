@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 11 19:29:11 2016
-
-@author: DIP
-"""
 
 from normalization import normalize_corpus
 from utils import build_feature_matrix
