@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 11 04:02:10 2016
-
-@author: DIP
-"""
 
 import numpy as np
 from scipy.stats import itemfreq
