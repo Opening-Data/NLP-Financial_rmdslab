@@ -1,14 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 12 20:42:12 2016
-
-@author: DIP
-"""
-
 import pandas as pd
 import numpy as np
 
-movie_data = pd.read_csv('movie_data.csv')
+movie_data = pd.read_csv('World_Economy.csv')
 
 print movie_data.head()
 
